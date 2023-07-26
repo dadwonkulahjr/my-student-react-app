@@ -1,0 +1,19 @@
+.my-custom-style{
+    background-color: black;
+    color: gray;
+    padding: 6px;
+    width:100%;
+}
+
+.my-custom-style p{
+    text-align: center;
+}
+
+
+.my-custom-heading-style{
+    background-color: yellowgreen;
+    color: yellow;
+    width:100%;
+    padding: 5px;
+    text-align: right;
+}
